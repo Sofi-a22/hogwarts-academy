@@ -1,0 +1,15 @@
+{
+  "name": "hogwarts-academy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TypeScript mini-project covering generics, utility types, conditional types, index signatures, type guards, and legacy method decorators.",
+  "scripts": {
+    "start": "tsx src/main.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
